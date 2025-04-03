@@ -1,0 +1,5 @@
+config:
+  aws:region: ca-central-1
+  lab8-aws:errorDocument: error.html
+  lab8-aws:indexDocument: index.html
+  lab8-aws:path: ./www
